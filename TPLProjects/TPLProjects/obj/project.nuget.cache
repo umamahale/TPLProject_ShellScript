@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ye58xn5r9SeIC3al0mmchgDnmDZ9KLVnDUHjmwwGZhPpew0DWM5wJMDAmn44G0iY2UPlNuSBWR+YgrHQQgScjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\om\\source\\repos\\TPLProjects\\TPLProjects\\TPLProjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\om\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\om\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\om\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
